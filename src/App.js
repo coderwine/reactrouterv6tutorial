@@ -22,4 +22,9 @@ function App() {
 
 export default App;
 
-// Link is changing the URL without causing a full page reload.
+
+/*
+  Link is changing the URL without causing a full page reload.
+
+  - Before our nested routes will work, we need to render an <Outlet /> in the parent component.  In this case, the App.jsx.  This should work at any level of the route hierarchy.
+*/
