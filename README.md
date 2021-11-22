@@ -3,5 +3,6 @@ Working through some of the updates that have recently rolled out.
 
 [Tutorial Link](https://github.com/remix-run/react-router/blob/main/docs/getting-started/tutorial.md);
 
-Stopped at:
-[Active Links](https://github.com/remix-run/react-router/blob/main/docs/getting-started/tutorial.md#active-links)
+Completed tutorial.
+
+Should consider what else to add to this after this mini lesson.
